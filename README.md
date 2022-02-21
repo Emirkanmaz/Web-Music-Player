@@ -1,4 +1,4 @@
-# Caltify Music Player
+# Caltify Music Player 
 
 A music player built with django web framework
 
